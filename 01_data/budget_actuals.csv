@@ -1,0 +1,195 @@
+month,department,account_category,budget_amount,actual_amount
+01/01/2024,Sales,Revenue,690456,542628
+01/02/2024,Sales,Revenue,738236,745222
+01/03/2024,Sales,Revenue,859986,930273
+01/04/2024,Sales,Revenue,781159,803744
+01/01/2024,Sales,Payroll,39144,41141
+01/02/2024,Sales,Payroll,52541,54454
+01/03/2024,Sales,Payroll,69920,72706
+01/01/2024,Sales,Operating Expense,32174,34199
+01/02/2024,Sales,Operating Expense,11423,12115
+01/03/2024,Sales,Operating Expense,27502,29163
+01/01/2024,Sales,COGS,86048,84643
+01/02/2024,Sales,COGS,99797,94323
+01/03/2024,Sales,COGS,139593,151945
+01/01/2024,Operations,COGS,148907,135201.72
+01/01/2024,Operations,Payroll,53031,56376.33
+01/01/2024,Operations,Operating Expense,75962,78023.17
+01/05/2024,Sales,Revenue,867971,1043567
+01/06/2024,Sales,Revenue,773453,902838
+01/07/2024,Sales,Revenue,793022,790002
+01/08/2024,Sales,Revenue,902747,861609
+01/02/2024,Operations,COGS,151070,176092.56
+01/02/2024,Operations,Payroll,63700,66570.05
+01/02/2024,Operations,Operating Expense,76174,68463.66
+01/03/2024,Operations,COGS,170704,193373.49
+01/03/2024,Operations,Payroll,55010,59236.66
+01/03/2024,Operations,Operating Expense,82759,79876.7
+01/01/2024,Marketing,Payroll,30697,31769.99
+01/01/2024,Marketing,Marketing Expense,44165,35924.2
+01/01/2024,Marketing,Operating Expense,15164,14529.62
+01/02/2024,Marketing,Payroll,33180,35736.28
+01/02/2024,Marketing,Marketing Expense,89615,74869.76
+01/02/2024,Marketing,Operating Expense,17606,19496.02
+01/09/2024,Sales,Revenue,810163,820410
+01/10/2024,Sales,Revenue,720883,775352
+01/11/2024,Sales,Revenue,706749,741886
+01/12/2024,Sales,Revenue,608821,594074
+01/03/2024,Marketing,Payroll,35708,36452.46
+01/03/2024,Marketing,Marketing Expense,75382,93872.11
+01/03/2024,Marketing,Operating Expense,15196,16277.25
+01/01/2024,HR,Payroll,25231,26411.69
+01/01/2024,HR,Training Expense,19149,18138.99
+01/01/2024,HR,Operating Expense,8527,9714.84
+01/02/2024,HR,Payroll,32455,32473.73
+01/02/2024,HR,Training Expense,19954,18096.86
+01/02/2024,HR,Operating Expense,10820,10304.72
+01/03/2024,HR,Payroll,36358,36849.54
+01/03/2024,HR,Training Expense,23035,20731.62
+01/03/2024,HR,Operating Expense,7287,7007.59
+01/01/2024,Finance,Payroll,32223,32703.8
+01/01/2024,Finance,Operating Expense,19115,20607.4
+01/01/2024,Finance,Training Expense,3106,3465
+01/04/2024,Sales,Payroll,68242,69193
+01/04/2024,Marketing,Payroll,34065,34952.32
+01/04/2024,Marketing,Marketing Expense,51915,59188.39
+01/04/2024,Marketing,Operating Expense,11592,10875.73
+01/04/2024,Operations,COGS,90969,103488.5
+01/04/2024,Operations,Payroll,67666,70882.38
+01/04/2024,Operations,Operating Expense,55216,54279.38
+01/04/2024,Finance,Payroll,40337,41261.18
+01/04/2024,Finance,Operating Expense,28128,30641.84
+01/04/2024,Finance,Training Expense,3188,3468.86
+01/04/2024,HR,Payroll,23753,24821.6
+01/04/2024,HR,Training Expense,16743,18735.58
+01/04/2024,HR,Operating Expense,10573,9810.56
+01/05/2024,Sales,Payroll,47261,50896
+01/06/2024,Sales,Payroll,64911,68432
+01/07/2024,Sales,Payroll,34643,35563
+01/08/2024,Sales,Payroll,34940,35595
+01/05/2024,Marketing,Payroll,31973,34075.45
+01/05/2024,Marketing,Marketing Expense,79117,93259.26
+01/05/2024,Marketing,Operating Expense,24635,25922
+01/05/2024,Operations,COGS,90032,91128.06
+01/05/2024,Operations,Payroll,50587,52616.51
+01/05/2024,Operations,Operating Expense,81028,91485.25
+01/05/2024,Finance,Payroll,25018,25765.9
+01/05/2024,Finance,Operating Expense,26010,23520.45
+01/05/2024,Finance,Training Expense,8947,10356.62
+01/05/2024,HR,Payroll,47252,50027.83
+01/05/2024,HR,Training Expense,15846,13790.36
+01/05/2024,HR,Operating Expense,14295,16249.66
+01/09/2024,Sales,Payroll,64807,63985
+01/10/2024,Sales,Payroll,66896,72219
+01/11/2024,Sales,Payroll,52471,52072
+01/12/2024,Sales,Payroll,32614,34861
+01/06/2024,Marketing,Payroll,35821,35790.78
+01/06/2024,Marketing,Marketing Expense,119507,118361.18
+01/06/2024,Marketing,Operating Expense,14940,16915.49
+01/06/2024,Operations,COGS,168994,189100.79
+01/06/2024,Operations,Payroll,53182,56515.63
+01/06/2024,Operations,Operating Expense,56148,64496.66
+01/06/2024,Finance,Payroll,46295,46634.9
+01/06/2024,Finance,Operating Expense,26959,26940.86
+01/06/2024,Finance,Training Expense,7061,6557.16
+01/06/2024,HR,Payroll,31078,30217.57
+01/06/2024,HR,Training Expense,15540,16409.53
+01/06/2024,HR,Operating Expense,5117,4696.12
+01/02/2024,Finance,Payroll,46668,46331.52
+01/02/2024,Finance,Operating Expense,19482,21756.5
+01/02/2024,Finance,Training Expense,6814,7858.38
+01/04/2024,Sales,Operating Expense,17186,19238
+01/07/2024,Marketing,Payroll,39040,40184.49
+01/07/2024,Marketing,Marketing Expense,114847,121656.88
+01/07/2024,Marketing,Operating Expense,15962,17496.82
+01/07/2024,Operations,COGS,175840,179729.23
+01/07/2024,Operations,Payroll,46181,45377.5
+01/07/2024,Operations,Operating Expense,58249,56831.24
+01/07/2024,Finance,Payroll,38470,39112.54
+01/07/2024,Finance,Operating Expense,11775,12341.85
+01/07/2024,Finance,Training Expense,4612,4018.04
+01/07/2024,HR,Payroll,43862,44183.21
+01/07/2024,HR,Training Expense,11580,10850.8
+01/07/2024,HR,Operating Expense,8116,8392.52
+01/05/2024,Sales,Operating Expense,34967,32845
+01/06/2024,Sales,Operating Expense,14207,14848
+01/07/2024,Sales,Operating Expense,19125,20027
+01/08/2024,Sales,Operating Expense,28033,25834
+01/08/2024,Marketing,Payroll,25967,27955.8
+01/08/2024,Marketing,Marketing Expense,70982,62097.89
+01/08/2024,Marketing,Operating Expense,23913,24399.38
+01/08/2024,Operations,COGS,122565,143490.87
+01/08/2024,Operations,Payroll,50789,51767.53
+01/08/2024,Operations,Operating Expense,55586,52895.91
+01/08/2024,Finance,Payroll,50692,53151.22
+01/08/2024,Finance,Operating Expense,19347,19212.76
+01/08/2024,Finance,Training Expense,10973,9921.55
+01/08/2024,HR,Payroll,29722,29542.1
+01/08/2024,HR,Training Expense,9916,10438.7
+01/08/2024,HR,Operating Expense,13883,12706.27
+01/09/2024,Sales,Operating Expense,26640,24446
+01/10/2024,Sales,Operating Expense,12400,12627
+01/11/2024,Sales,Operating Expense,30782,33480
+01/12/2024,Sales,Operating Expense,16883,17728
+01/09/2024,Marketing,Payroll,37178,36342.88
+01/09/2024,Marketing,Marketing Expense,48907,53985.78
+01/09/2024,Marketing,Operating Expense,15707,15721.83
+01/09/2024,Operations,COGS,144668,140887.04
+01/09/2024,Operations,Payroll,78962,77001.09
+01/09/2024,Operations,Operating Expense,35372,35131.14
+01/09/2024,Finance,Payroll,44125,45295.31
+01/09/2024,Finance,Operating Expense,20366,22517.37
+01/09/2024,Finance,Training Expense,6346,6881.63
+01/09/2024,HR,Payroll,30295,30181.56
+01/09/2024,HR,Training Expense,20969,18784.19
+01/09/2024,HR,Operating Expense,15575,15185.61
+01/03/2024,Finance,Payroll,33773,32983.35
+01/03/2024,Finance,Operating Expense,28585,31237.71
+01/03/2024,Finance,Training Expense,8155,7538.64
+01/04/2024,Sales,COGS,126622,130597
+01/10/2024,Marketing,Payroll,58153,58104.85
+01/10/2024,Marketing,Marketing Expense,85745,102584.36
+01/10/2024,Marketing,Operating Expense,16004,15882.08
+01/10/2024,Operations,COGS,90676,93528.25
+01/10/2024,Operations,Payroll,75600,80246.39
+01/10/2024,Operations,Operating Expense,70086,80293.35
+01/10/2024,Finance,Payroll,51447,53268.1
+01/10/2024,Finance,Operating Expense,10256,10737.31
+01/10/2024,Finance,Training Expense,7905,9297.19
+01/10/2024,HR,Payroll,23394,25108.37
+01/10/2024,HR,Training Expense,12400,11687.78
+01/10/2024,HR,Operating Expense,6753,7331.08
+01/05/2024,Sales,COGS,50425,58896
+01/06/2024,Sales,COGS,59071,69366
+01/07/2024,Sales,COGS,54117,61883
+01/08/2024,Sales,COGS,86509,89994
+01/11/2024,Marketing,Payroll,58122,59501.73
+01/11/2024,Marketing,Marketing Expense,46658,39264.31
+01/11/2024,Marketing,Operating Expense,21879,24227.43
+01/11/2024,Operations,COGS,75778,68280.81
+01/11/2024,Operations,Payroll,48573,51138.86
+01/11/2024,Operations,Operating Expense,47167,43564.72
+01/11/2024,Finance,Payroll,39478,40471.58
+01/11/2024,Finance,Operating Expense,24014,24575.92
+01/11/2024,Finance,Training Expense,4832,4234.45
+01/11/2024,HR,Payroll,48937,51188.7
+01/11/2024,HR,Training Expense,12884,13411.68
+01/11/2024,HR,Operating Expense,11049,11553.14
+01/09/2024,Sales,COGS,126569,132134
+01/10/2024,Sales,COGS,59508,54891
+01/11/2024,Sales,COGS,129276,126014
+01/12/2024,Sales,COGS,55482,55490
+01/12/2024,Marketing,Payroll,31736,32018.6
+01/12/2024,Marketing,Marketing Expense,113385,135819.43
+01/12/2024,Marketing,Operating Expense,21316,24373.98
+01/12/2024,Operations,COGS,168235,159211.88
+01/12/2024,Operations,Payroll,55514,60088.28
+01/12/2024,Operations,Operating Expense,82421,90573.13
+01/12/2024,Finance,Payroll,53882,54487.06
+01/12/2024,Finance,Operating Expense,15877,16862.08
+01/12/2024,Finance,Training Expense,8442,9487.42
+01/12/2024,HR,Payroll,33491,35441.71
+01/12/2024,HR,Training Expense,16131,15217.7
+01/12/2024,HR,Operating Expense,17900,19248.22
+,,,,
+,,,17468128,18057024.71
