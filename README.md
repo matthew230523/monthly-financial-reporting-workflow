@@ -1,17 +1,17 @@
     # 📊 Monthly Financial Reporting Workflow
 
     ## 📚 Table of Contents
-    - [Project Overview](#-project-overview)
-    - [Features](#-feautures)
-    - [Tech Stack](#-tech-stack)
-    - [Project Structure](#-project-structure)
-    - [Business Case](#-business-case)
-    - [Workflow](#-workflow-overview)
-    - [How to Run](#-how-to-run-the-project)                                                                                                           -
-    - [Requirements](#-requirements)
-    - [Output](#-output)    
-    - [Notes](#-notes)
-    - [Author](#-author)
+    - [Project Overview](#project-overview)
+    - [Features](#feautures)
+    - [Tech Stack](#tech-stack)
+    - [Project Structure](#project-structure)
+    - [Business Case](#business-case)
+    - [Workflow](#workflow-overview)
+    - [How to Run](#how-to-run-the-project)
+    - [Requirements](#requirements)
+    - [Output](#output)
+    - [Notes](#notes)
+    - [Author](#author)
 
 ---
 
