@@ -1,5 +1,22 @@
     # 📊 Monthly Financial Reporting Workflow
 
+    ## 📚 Table of Contents
+    - [Project Overview](#-project-overview)
+    - [Features](#-feautures)
+    - [Tech Stack](#-tech-stack)
+    - [Project Structure](#-project-structure)
+    - [Business Case](#-business-case)
+    - [Workflow](#-workflow-overview)
+    - [How to Run](#-how-to-run-the-project)                                                                                                           -
+    - [Requirements](#-requirements)
+    - [Output](#-output)    
+    - [Notes](#-notes)
+    - [Author](#-author)
+
+---
+
+
+
     ## 📌 Project Overview
     This project demonstrates an end-to-end financial reporting workflow using SQL and Python.
 
@@ -12,6 +29,16 @@
     - Automated Excel report generation
 
     ---
+
+
+    ## ✨ Features
+
+    - End-to-end financial reporting workflow (Python + SQL)
+    - Budget vs Actual variance analysis
+    - Quarterly and monthly performance tracking
+    - Department-level analysis
+    - Net result (profitability) calculation
+    - Automated Excel report generation
 
     ## ⚙️ Tech Stack
     - Python (pandas, sqlalchemy, openpyxl)
