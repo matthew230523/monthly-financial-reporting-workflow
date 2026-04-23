@@ -1,5 +1,19 @@
     # 📊 Monthly Financial Reporting Workflow
 
+## 📚 Table of Contents
+- [Project Overview](#-project-overview)
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
+- [Project Structure](#-project-structure)
+- [Business Case](#-business-case)
+- [Workflow](#-workflow-overview)
+- [How to Run](#-how-to-run-the-project)
+- [Output](#-output)
+- [Notes](#-notes)
+- [Author](#-author)
+
+    ---
+
     ## 📌 Project Overview
     This project demonstrates an end-to-end financial reporting workflow using SQL and Python.
 
